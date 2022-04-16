@@ -1,1 +1,1 @@
-# HostelManagement-Information-System
+# Hostel Information System
